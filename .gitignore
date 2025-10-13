@@ -1,0 +1,23 @@
+﻿# Java/Spring (Maven/Gradle)
+target/
+build/
+out/
+.mvn/
+.gradle/
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# Logs/OS/Editor
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Entornos/secretos
+.env
+*.env
+.env.*
+*.local
