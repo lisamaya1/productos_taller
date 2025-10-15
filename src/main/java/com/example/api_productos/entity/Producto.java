@@ -3,6 +3,7 @@ package com.example.api_productos.entity;
 import jakarta.persistence.*;
 
 @Entity
+@Table(name = "productos", schema = "public")
 public class Producto {
 
     @Id
